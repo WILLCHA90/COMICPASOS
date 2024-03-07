@@ -18,4 +18,4 @@ intentan hablar o no en las burbujas de texto
 
 //
 
-Paso 4: 
+Paso 4: inventate una historia
