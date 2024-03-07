@@ -9,6 +9,7 @@ y 4 cm minimo de largo
 
 Paso 2:Seleccionar Burbujas de texto o dialogo
 en los cuadros que dibujaste
+
 //
 
 Paso 3:Dibujar personajes en los cuadros y es importante tener en cuenta si los personajes
