@@ -15,3 +15,7 @@ en los cuadros que dibujaste
 
 Paso 3:Dibujar personajes en los cuadros y es importante tener en cuenta si los personajes
 intentan hablar o no en las burbujas de texto
+
+//
+
+Paso 4: 
