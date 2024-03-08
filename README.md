@@ -18,4 +18,8 @@ intentan hablar o no en las burbujas de texto
 
 //
 
-Paso 4: inventate una historia
+Paso 4: Inventate una historia y dibuja un escenario
+
+//
+
+Paso 5: Organiza el climax
